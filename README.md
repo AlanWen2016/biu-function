@@ -1,7 +1,7 @@
 # biu-function
+## 第一次认真的写分享，求小星星，欢迎fork
 
 ## [手把手教你发布npm函数库](http://km.alanwen.online/guide/javascript/npm.html)
-
 ## Project setup
 ```
 npm install
