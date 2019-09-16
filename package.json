@@ -4,10 +4,9 @@
   "description": "javascript libs",
   "main": "dist/index.js",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "build": "webpack",
-    "docs": "./node_modules/.bin/jsdoc -c jsdoc.json",
-    "jsdoc": "./node_modules/.bin/jsdoc"
+    "docs": "./node_modules/.bin/jsdoc -c jsdoc.json"
   },
   "keywords": [
     "js",
@@ -21,6 +20,7 @@
     "@babel/preset-env": "^7.6.0",
     "clean-webpack-plugin": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
     "jsdoc": "^3.6.3",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8"

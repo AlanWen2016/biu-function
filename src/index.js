@@ -1,9 +1,9 @@
 /**
  * 
- * @param {string} a - Somebody's name.
+ * @param {string} a - 加法.
  * @param {*} b 
  */
-export const add = (a, b) => {
+export function add (a, b){
     return a + b
   }
 
